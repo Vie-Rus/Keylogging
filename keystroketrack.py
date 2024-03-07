@@ -110,3 +110,4 @@ def onRelease(key):
     
 with Listener(on_press=onKey, on_release=onRelease) as listener:
     listener.join()
+    

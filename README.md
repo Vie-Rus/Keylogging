@@ -28,7 +28,6 @@
 | Right Arrow    | <RA>                          |
 
 
-
 | Commands                | What it appears on the file   |
 |-------------------------|-------------------------------|
 | Copy Command (ctrl+c)   | Copy-command                  |
