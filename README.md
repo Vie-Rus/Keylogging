@@ -1,9 +1,10 @@
 # Keylogging
     Current Version 1.5
 
-    This keylogging python program will track your computer's keyboard strokes, along with certain special keys and commands and records them in a text file (v1.5). The certain special keys and commands will be listed down below.
+    This keylogging Python program will track your computer's keyboard strokes and certain special keys and commands and record them in a text file (v1.5). 
+    Certain special keys and commands will be listed down below.
 
-    Since this is simply a keyboarding tracking program, all system are able to detect when you are able to run this program to prevent malicious intent.
+    Since this is simply a keyboarding tracking program, all systems can detect when you can run this program to prevent malicious intent.
 
 
 | Special Keys   | What it appears on the file   |
@@ -11,10 +12,10 @@
 | Caps Lock      | ^                             |
 | Window Key     | window-cmd-key                |
 | ctrl           | ctrl-command                  |
-| Delete         | delte-key                     |
+| Delete         | delete-key                     |
 | End            | end-key                       |
 | Enter          | \n                            |
-| ESC            | STOP. (similar to morse code) |
+| ESC            | STOP. (similar to Morse code) |
 | Home           | home-key                      |
 | Play/Pause     | play/pause-key                |
 | Mute           | mute-key                      |
