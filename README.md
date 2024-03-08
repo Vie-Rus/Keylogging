@@ -21,7 +21,7 @@
 | Menu           | menu-key                      |
 | print-screen   | print-screen-key              |
 | Tab            | '____' (4 Spaces)             |
-| \\             | \                             |
+| \\\             | \                             |
 | Up Arrow       | '^UA^'                          |
 | Down Arrow     | 'vDAv'                          |
 | Left Arrow     | '< LA >'                          |
