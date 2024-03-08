@@ -22,10 +22,10 @@
 | print-screen   | print-screen-key              |
 | Tab            | '    ' (4 Spaces)             |
 | \\             | \                             |
-| Up Arrow       | ^UA^                          |
-| Down Arrow     | vDAv                          |
-| Left Arrow     | <LA>                          |
-| Right Arrow    | <RA>                          |
+| Up Arrow       | '^UA^'                          |
+| Down Arrow     | 'vDAv'                          |
+| Left Arrow     | '<LA>'                          |
+| Right Arrow    | '<RA>'                          |
 
 
 | Commands                | What it appears on the file   |
