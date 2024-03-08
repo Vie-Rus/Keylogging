@@ -20,12 +20,12 @@
 | Mute           | mute-key                      |
 | Menu           | menu-key                      |
 | print-screen   | print-screen-key              |
-| Tab            | '    ' (4 Spaces)             |
+| Tab            | '____' (4 Spaces)             |
 | \\             | \                             |
 | Up Arrow       | '^UA^'                          |
 | Down Arrow     | 'vDAv'                          |
-| Left Arrow     | '<LA>'                          |
-| Right Arrow    | '<RA>'                          |
+| Left Arrow     | '< LA >'                          |
+| Right Arrow    | '< RA >'                          |
 
 
 | Commands                | What it appears on the file   |
